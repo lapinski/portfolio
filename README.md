@@ -8,7 +8,7 @@ This is a Flask-based web app with an orientation to portfolio management. The c
  * pip - https://pypi.python.org/pypi/pip
 
 ## Quick Start
-```
+```bash
 pip install -r ./requirements.txt
 
 ```
@@ -17,7 +17,7 @@ pip install -r ./requirements.txt
 
 ## File Structure
 
-* **./requirements.txt/** - *PIP package requirements [][https://pip.pypa.io/en/latest/reference/pip_install.html#requirements-file-format|pip package format]]*
+* **./requirements.txt/** - *PIP package requirements ([Format Spec](https://pip.pypa.io/en/latest/reference/pip_install.html#requirements-file-format|pip package format))*
 - **./models/** - *All of the models used to represent content*
 - **./models/remote/** - *Models for objects received from services*
 - **./documentation/** - *All documentation for the project.*

@@ -17,7 +17,7 @@ pip install -r ./requirements.txt
 
 ## File Structure
 
-* **./requirements.txt/** - *PIP package requirements | https://pip.pypa.io/en/latest/reference/pip_install.html#requirements-file-format*
+* **./requirements.txt/** - *PIP package requirements [][https://pip.pypa.io/en/latest/reference/pip_install.html#requirements-file-format|pip package format]]*
 - **./models/** - *All of the models used to represent content*
 - **./models/remote/** - *Models for objects received from services*
 - **./documentation/** - *All documentation for the project.*
